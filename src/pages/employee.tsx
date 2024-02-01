@@ -5,6 +5,7 @@ const EmployeePage = () => {
         <MainLayout>
             <h1>Employee Page</h1>
             <p>Welcome to the Employee page.</p>
+            <p>This is the content of the Employee page.</p>
         </MainLayout>
     );
 };
