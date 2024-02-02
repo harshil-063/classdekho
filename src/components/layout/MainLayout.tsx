@@ -10,7 +10,7 @@ const MainLayout: React.FC<MainLayoutProps> = ({ children }) => {
         <div>
             <header>
                 <nav>
-                    <Link href="/">Home</Link> |{" "}
+                    <Link href="/Home">Home</Link> |{" "}
                     <Link href="/employee">Employee</Link>
                 </nav>
             </header>
